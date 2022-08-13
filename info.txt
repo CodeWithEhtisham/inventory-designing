@@ -1,0 +1,6 @@
+1: Dashboard - c
+2: Suppliers - c
+3: customers - c
+4: products - c
+5: expense - c
+6: 
